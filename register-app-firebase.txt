@@ -1,0 +1,1 @@
+C:\Android\openjdk\bin>keytool -list -v -keystore C:\Users\ThinkPad\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
